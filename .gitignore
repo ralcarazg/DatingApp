@@ -1,2 +1,3 @@
 client/ssl/localhost.pem
 client/angular.json
+client/ssl/localhost-key.key
